@@ -1,0 +1,56 @@
+2025-03-14 21:38:12 INFO  TC001_AccountRegistration:38 - TC001_AccountRegistration Test Execution Started
+2025-03-14 21:38:14 INFO  TC001_AccountRegistration:48 - FirstName Entered
+2025-03-14 21:38:14 INFO  TC001_AccountRegistration:51 - LastName Entered
+2025-03-14 21:38:14 INFO  TC001_AccountRegistration:54 - Email Entered
+2025-03-14 21:40:10 INFO  TC001_AccountRegistration:38 - TC001_AccountRegistration Test Execution Started
+2025-03-14 21:40:12 INFO  TC001_AccountRegistration:48 - FirstName Entered
+2025-03-14 21:40:12 INFO  TC001_AccountRegistration:51 - LastName Entered
+2025-03-14 21:40:12 INFO  TC001_AccountRegistration:54 - Email Entered
+2025-03-14 21:47:42 ERROR TC001_AccountRegistration:66 - Test Failed
+2025-03-14 21:51:07 ERROR TC001_AccountRegistration:66 - Test Failedno such element: Unable to locate element: {"method":"css selector","selector":"#input\-Telephone"}
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0dffc5e7f1f03e7ad6f19e56b5bd1ef9, findElement {value=input-Telephone, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\pnatar4x\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58474}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58474/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0dffc5e7f1f03e7ad6f19e56b5bd1ef9
+2025-03-14 22:08:09 ERROR TC001_AccountRegistration:84 - Test Failedno such element: Unable to locate element: {"method":"css selector","selector":"#input\-Telephone"}
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8623aea328f93a49a52a75815c66dc3b, findElement {using=id, value=input-Telephone}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\pnatar4x\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59600}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59600/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8623aea328f93a49a52a75815c66dc3b
+2025-03-14 22:08:27 ERROR TC001_AccountRegistration:84 - Test Failedno such element: Unable to locate element: {"method":"css selector","selector":"#input\-Telephone"}
+  (Session info: MicrosoftEdge=134.0.3124.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [5a437d5cddb79f3189a6eb64ec46be84, findElement {using=id, value=input-Telephone}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.66, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59702}, msedge: {msedgedriverVersion: 134.0.3124.68 (3aef6e50b44d..., userDataDir: C:\Users\pnatar4x\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59702/devtoo..., se:cdpVersion: 134.0.3124.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a437d5cddb79f3189a6eb64ec46be84
+2025-03-14 22:19:03 ERROR TC001_AccountRegistration:90 - Test FailedCannot invoke "java.util.Properties.getProperty(String)" because "this.prop" is null
+2025-03-14 22:19:03 ERROR TC001_AccountRegistration:90 - Test FailedCannot invoke "java.util.Properties.getProperty(String)" because "this.prop" is null
+2025-03-14 22:20:34 ERROR TC001_AccountRegistration:90 - Test Failedno such element: Unable to locate element: {"method":"css selector","selector":"#input\-Telephone"}
+  (Session info: MicrosoftEdge=134.0.3124.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [cbf2e6920348d7a8ed0ff13d704e99a1, findElement {using=id, value=input-Telephone}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 134.0.3124.66, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:60786}, msedge: {msedgedriverVersion: 134.0.3124.68 (3aef6e50b44d..., userDataDir: C:\Users\pnatar4x\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60786/devtoo..., se:cdpVersion: 134.0.3124.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cbf2e6920348d7a8ed0ff13d704e99a1
+2025-03-14 22:20:35 ERROR TC001_AccountRegistration:90 - Test Failedno such element: Unable to locate element: {"method":"css selector","selector":"#input\-Telephone"}
+  (Session info: chrome=134.0.6998.89)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0dc2613dfc16945594d6daccaf157e52, findElement {using=id, value=input-Telephone}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\pnatar4x\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60791}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60791/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0dc2613dfc16945594d6daccaf157e52
